@@ -70,3 +70,8 @@ venv.bak/
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+
+# Unwanted script files
+output1.txt
+bigram.py
